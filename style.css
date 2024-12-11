@@ -5,3 +5,12 @@
     background-color: red;
     display: flex;
 } */
+
+.box{
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    width: 30%;
+}
